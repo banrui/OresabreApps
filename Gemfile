@@ -42,3 +42,4 @@ gem 'jbuilder', '~> 1.0.1'
 
 # To use debugger
 # gem 'debugger', group: [:development, :test]
+ruby "2.0.0"
