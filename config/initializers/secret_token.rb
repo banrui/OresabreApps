@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Oresabre::Application.config.secret_key_base = '9b3db4d55e688057eb9685c2dc677da435115a9888f6bc3b85648eb2cd0bad10900cd80a74b4a7d41cb0e407a7650869a63e2f0ffa6bfc195ce833380d32af45'
+Oresabre::Application.config.secret_key_base = '86926b0891e021bb7669a84935a49ebf403dad7b5a78ddd01f2c4c8ed9ca179c33b24acf383e223c0bf729ead01100e1eda5827c9d47a0d7246c6799b9a13df7'
